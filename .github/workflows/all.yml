@@ -39,5 +39,4 @@ jobs:
                 body: "Veuillez examiner les changements sur la branche ${GITHUB_REF##*/}."
                 base: "release"
                 branch: "${GITHUB_REF##*/}"
-
           
